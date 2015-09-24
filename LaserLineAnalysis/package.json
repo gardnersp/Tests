@@ -1,0 +1,10 @@
+{
+  "name": "LaserLineAnalysis",
+  "version": "0.0.0",
+  "description": "LaserLineAnalysis",
+  "main": "app.js",
+  "author": {
+    "name": "gardn",
+    "email": ""
+  }
+}
